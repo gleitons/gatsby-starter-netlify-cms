@@ -6,19 +6,15 @@ heading: Mega de Hoje Online
 subheading: Resultados da mega-sena e loteria nacional
 mainpitch:
   title: " "
-  description: >
-    Confira os resultados da mega-sena e de outros concursos em nosso site. Mega
-    de hoje é um site rápido e responsivo, utilizando as últimas tecnologias de
-    Fast carregamento. Resultados e noticias em primeira mão
-description: "Confira os resultados abaixo:"
+  description: "   "
+description: "Confira os resultados da mega-sena e de outros concursos em nosso
+  site. Mega de hoje é um site rápido e responsivo, utilizando as últimas
+  tecnologias de Fast carregamento. Resultados e noticias em primeira
+  mão.Confira os resultados abaixo:"
 intro:
   blurbs: []
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: " "
+  description: "  "
 main:
   heading: Great coffee with no compromises
   description: >

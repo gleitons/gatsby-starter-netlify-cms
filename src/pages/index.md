@@ -2,8 +2,8 @@
 templateKey: index-page
 title: Great coffee with a conscience
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Mega de Hoje Online
+subheading: Resultados da mega-sena e loteria nacional
 mainpitch:
   title: Why Kaldi
   description: >

@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Mega de Hoje
-image: /img/fundo-mega-de-hoje-header.jpg
+image: /img/fundo-mega-de-hoje-header.png
 heading: Mega de Hoje Online
 subheading: Resultados da mega-sena e loteria nacional
 mainpitch:

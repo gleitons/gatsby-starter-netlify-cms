@@ -8,7 +8,9 @@ description: Como ganhar na mega-sena, como ganhar na lotofácil, existe dicas
   certeiras de como fazer isso, depois de muita pesquisa, encontrei esses
   produtos que podem te ajudar a ganhar na loteria.
 intro:
-  blurbs: []
+  blurbs:
+    - text: dgfg
+      image: /img/aposta-ganhadora-2348-mega-sena.png
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their

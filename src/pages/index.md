@@ -12,7 +12,9 @@ mainpitch:
     Fast carregamento. Resultados e noticias em primeira mão
 description: "Confira os resultados abaixo:"
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/aposta-ganhadora-2348-mega-sena.png
+      text: gfg
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their

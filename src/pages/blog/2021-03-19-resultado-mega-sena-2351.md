@@ -29,3 +29,11 @@ Não houve ganhadores
 
 **4 acertos**\
 4.604 apostas ganhadoras, R$ 839,03
+
+## **Como jogar a mega-sena online**
+
+Faça sua aposta online:
+
+Te convido a apostar na loteria em um site seguro e confiável, com muitos anos de mercado e já pagou mais de 100 milhões de reais aos ganhadores.
+
+Aposte hoje mesmo: [Clique aqui para conhecer.](http://bit.ly/aposte-online)

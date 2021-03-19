@@ -14,7 +14,7 @@ const Footer = class extends React.Component {
         <div className="content has-text-centered">
           <img
             src={logo}
-            alt="Mega de Hoje"
+            alt="Kaldi"
             style={{ width: '14em', height: '10em' }}
           />
         </div>
@@ -26,22 +26,22 @@ const Footer = class extends React.Component {
                   <ul className="menu-list">
                     <li>
                       <Link to="/" className="navbar-item">
-                        Inicio
+                        Home
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to="/about">
-                        Sobre
+                        About
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to="/products">
-                        Dicas
+                        Products
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to="/contact/examples">
-                        Mais.
+                        Form Examples
                       </Link>
                     </li>
                     <li>
@@ -51,7 +51,7 @@ const Footer = class extends React.Component {
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        Acesso
+                        Admin
                       </a>
                     </li>
                   </ul>
@@ -96,8 +96,7 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                </a>
-              </div>
+               </div>
             </div>
           </div>
         </div>
@@ -107,3 +106,4 @@ const Footer = class extends React.Component {
 }
 
 export default Footer
+

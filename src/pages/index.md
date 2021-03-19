@@ -5,7 +5,7 @@ image: /img/fundo-mega-de-hoje-header.png
 heading: Mega de Hoje Online
 subheading: Resultados da mega-sena e loteria nacional
 mainpitch:
-  title: Sobre nós
+  title: " "
   description: >
     Confira os resultados da mega-sena e de outros concursos em nosso site. Mega
     de hoje é um site rápido e responsivo, utilizando as últimas tecnologias de

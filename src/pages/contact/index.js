@@ -41,12 +41,12 @@ export default class Index extends React.Component {
             <div className="content">
               <h1>Contact</h1>
               <form
-                name="contact"
+                name="Contato"
                 method="post"
-                action="/contact/thanks/"
-                data-netlify="true"
+                action="https://formsquash.io/f/eMeTNyFAjf3nO3uoF1hg"
+                data-netlify="false"
                 data-netlify-honeypot="bot-field"
-                onSubmit={this.handleSubmit}
+                onSubmit="https://formsquash.io/f/eMeTNyFAjf3nO3uoF1hg"
               >
                 {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
                 <input type="hidden" name="form-name" value="contact" />
@@ -58,7 +58,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'name'}>
-                    Your name
+                    Nome:
                   </label>
                   <div className="control">
                     <input
@@ -88,7 +88,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'message'}>
-                    Message
+                    Mensagem
                   </label>
                   <div className="control">
                     <textarea
@@ -102,7 +102,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <button className="button is-link" type="submit">
-                    Send
+                    Enviar
                   </button>
                 </div>
               </form>

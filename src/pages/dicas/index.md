@@ -3,7 +3,7 @@ heading: Dicas e cursos de como ganhar na loteria
 path: /products
 templateKey: product-page
 title: Dicas
-image: /img/hero-mega-de-hoje-megadehoje.svg
+image: /img/fundo-mega-de-hoje-header.png
 description: Como ganhar na mega-sena, como ganhar na lotofácil, existe dicas
   certeiras de como fazer isso, depois de muita pesquisa, encontrei esses
   produtos que podem te ajudar a ganhar na loteria.

@@ -18,6 +18,7 @@ const Footer = class extends React.Component {
             alt="Mega de Hoje"
             style={{ width: '14em', height: '10em' }}
           />
+        </a>
        </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">

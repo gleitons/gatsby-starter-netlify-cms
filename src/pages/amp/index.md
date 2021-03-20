@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-path: /about
+path: /amp
 title: Sobre nós
 ---
 ![megadehoje-mega-de-hoje](/img/logo-mega-de-hoje-md.png "mega-de-hoje-26300217000100")

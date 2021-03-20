@@ -12,13 +12,13 @@ const Footer = class extends React.Component {
     return (
       <footer className="footer has-background-black has-text-white-ter">
         <div className="content has-text-centered">
+        <a href="/">
           <img
             src={logo}
             alt="Mega de Hoje"
-            href="/"
             style={{ width: '14em', height: '10em' }}
           />
-        </div>
+       </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">
             <div style={{ maxWidth: '100vw' }} className="columns">

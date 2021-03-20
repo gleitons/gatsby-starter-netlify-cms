@@ -60,16 +60,16 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-              <Link className="navbar-item" to="/blog">
+              <Link className="navbar-item" to="/resultados">
                 Resultados
               </Link>              
-              <Link className="navbar-item" to="/products">
+              <Link className="navbar-item" to="/dicas">
                 Dicas
               </Link>
-              <Link className="navbar-item" to="/contact">
+              <Link className="navbar-item" to="/contato">
                 Contato
               </Link>
-              <Link className="navbar-item" to="/about">
+              <Link className="navbar-item" to="/sobre">
                 Sobre
               </Link>
               <Link className="navbar-item" to="/contact/examples">
@@ -79,7 +79,7 @@ const Navbar = class extends React.Component {
             <div className="navbar-end has-text-centered">
               <a
                 className="navbar-item"
-                href="https://naturfive.com"
+                href="https://megadehoje.com/resultados"
                 target="_blank"
                 rel="noopener noreferrer"
               >

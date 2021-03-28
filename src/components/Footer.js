@@ -32,44 +32,34 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/about">
+                      <Link className="navbar-item" to="/sobre">
                         Sobre
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/products">
+                      <Link className="navbar-item" to="/dicas">
                         Dicas
                       </Link>
                     </li>
-                    <li>
-                      <Link className="navbar-item" to="/contact/examples">
-                        Mais...
-                      </Link>
-                    </li>
-                    <li>
-                      <a
-                        className="navbar-item"
-                        href="/admin/"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        Acesso.
-                      </a>
-                    </li>
-                  </ul>
+                    </ul>
                 </section>
               </div>
               <div className="column is-4">
                 <section>
                   <ul className="menu-list">
                     <li>
-                      <Link className="navbar-item" to="/blog">
+                      <Link className="navbar-item" to="/resultados">
                         Notícias
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/contact">
+                      <Link className="navbar-item" to="/contato">
                         Contato
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="navbar-item" to="/contact/examples">
+                        Mais...
                       </Link>
                     </li>
                   </ul>

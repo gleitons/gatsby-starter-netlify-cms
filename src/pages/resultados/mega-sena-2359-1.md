@@ -5,8 +5,10 @@ date: 2021-04-09T00:00:13.409Z
 description: |+
   Resultado Concurso 2360 (08/04/2021)
 
-featuredpost: true
+featuredpost: false
 featuredimage: /img/resultado-mega-sena-2360.png
+tags:
+  - megadehoje
 ---
 ![](/img/resultado-mega-sena-2360.svg)
 

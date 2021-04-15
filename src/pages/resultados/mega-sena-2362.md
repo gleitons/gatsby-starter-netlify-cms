@@ -7,8 +7,6 @@ description: |
 featuredpost: true
 featuredimage: /img/resultado-mega-sena-2362-14-04-2021.png
 ---
-
-
 ![](/img/resultado-mega-sena-2362.svg)
 
 ## Mega-sena 2362
@@ -19,13 +17,13 @@ Acabou de sair o resultado da mega-sena 2362, confira. Resultado da mega-sena 23
 
 Sorteio realizado ESPAÇO LOTERIAS CAIXA em SÃO PAULO, SP
 
-## Concurso 2362 (14/04/2021)
+# Concurso 2362 (14/04/2021)
 
-## 14 - 21 - 22 - 29 - 35 - 46
+## **03 - 20 - 22 - 32 - 35 - 50**
 
-Estimativa de prêmio do próximo concurso 14/04/2021
+Estimativa de prêmio do próximo concurso 17/04/2021
 
-**R$ 33.000.000,00** 
+**R$ 40.000.000,00**
 
 ### Premiação
 
@@ -33,10 +31,10 @@ Estimativa de prêmio do próximo concurso 14/04/2021
 Não houve ganhadores
 
 **5 acertos**\
-61 apostas ganhadoras, R$ 42.932,72
+41 apostas ganhadoras, R$ 75.848,58
 
 **4 acertos**\
-3.782 apostas ganhadoras, R$ 989,23
+3.883 apostas ganhadoras, R$ 1.144,10 
 
 ## **Como jogar**
 

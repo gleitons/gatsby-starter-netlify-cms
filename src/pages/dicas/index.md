@@ -12,8 +12,8 @@ intro:
   blurbs:
     - text: Jogando na loteria federal no conforto de sua casa
       image: /img/jogar-na-mega-sena-online-megadehoje.png
-    - image: /img/jogar-na-mega-sena-online-megadehoje.png
-      text: aposte hoje mesmo
+    - image: /img/aposte-hoje-mesmo.png
+      text: Aposte hoje mesmo
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -71,11 +71,9 @@ pricing:
     confiável, com muitos anos de mercado e já pagou mais de 100 milhões de
     reais aos ganhadores."
   plans:
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+    - description: Totalmente online no conforto de sua casa, pelo celular ou computador.
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - Semmensalidades/opçõesdebolões/Aoganharoprêmiovaidiretoparasuaconta
       plan: Aposte hoje mesmo
       price: ??
 ---

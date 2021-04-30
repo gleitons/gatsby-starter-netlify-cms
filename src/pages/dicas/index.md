@@ -75,7 +75,7 @@ pricing:
       items:
         - Sem mensalidades / opções de bolões / Ao ganhar o prêmio vai direto para sua conta
       plan: Aposte hoje mesmo
-      <div className="columns">
+      price:<div className="columns">
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="http://bit.ly/aposte-online">
                       Aposte já

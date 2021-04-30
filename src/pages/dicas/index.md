@@ -75,5 +75,5 @@ pricing:
       items:
         - Sem mensalidades / opções de bolões / Ao ganhar o prêmio vai direto para sua conta
       plan: Aposte hoje mesmo
-      price: <a href="http://bit.ly/aposte-online">Clique aqui e saiba mais</a>
+      <a href="http://bit.ly/aposte-online">Clique aqui e saiba mais</a>
 ---

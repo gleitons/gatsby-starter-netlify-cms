@@ -73,7 +73,7 @@ pricing:
   plans:
     - description: Totalmente online no conforto de sua casa, pelo celular ou computador.
       items:
-        - Semmensalidades/opçõesdebolões/Aoganharoprêmiovaidiretoparasuaconta
+        - Sem mensalidades / opções de bolões / Ao ganhar o prêmio vai direto para sua conta
       plan: Aposte hoje mesmo
-      price: ??
+      price: <a href="http://bit.ly/aposte-online">Clique aqui e saiba mais</a>
 ---

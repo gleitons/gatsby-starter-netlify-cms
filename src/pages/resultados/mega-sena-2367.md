@@ -16,11 +16,20 @@ tags:
 
 Acabou de sair o resultado da mega-sena 2367, confira. Resultado da mega-sena 2367, sorteio realizado hoje dia 30 de Abril de 2021, confira o resultado agora mesmo. Os números sorteados na mega sena foram:
 
+# 05 - 23 - 29 - 34 - 53 - 60
+
+### Premiação
+
+**6 acertos**\
+Não houve ganhadores
+
+**5 acertos**\
+63 apostas ganhadoras, R$ 40.222,88
+
+**4 acertos**\
+4.551 apostas ganhadoras, R$ 795,44
+
 ## Concurso 2367 (30/04/2021)
-
-
-
-
 
 **Como jogar**
 

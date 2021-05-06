@@ -6,26 +6,30 @@ description: |+
   Concurso 2368 (04/05/2021)
 
 featuredpost: true
-featuredimage: /img/fundo-mega-de-hoje-header.png
+featuredimage: /img/mega-sena-2368.png
 ---
-## Mega-sena 2367
+![](/img/mega-sena-2368.svg)
 
-Acabou de sair o resultado da mega-sena 2367, confira. Resultado da mega-sena 2367, sorteio realizado hoje dia 30 de Abril de 2021, confira o resultado agora mesmo. Os números sorteados na mega sena foram:
+## Mega-sena 2368
 
-# 05 - 23 - 29 - 34 - 53 - 60
+Acabou de sair o resultado da mega-sena 2368, confira. Resultado da mega-sena 2368, sorteio realizado hoje dia 04 de maio de 2021, confira o resultado agora mesmo. Os números sorteados na mega sena foram:
+
+# 04 - 07 - 13 - 25 - 36 - 58
 
 ### Premiação
 
 **6 acertos**\
-Não houve ganhadores
+1 aposta ganhadora, R$ 37.429.107,24
 
 **5 acertos**\
-63 apostas ganhadoras, R$ 40.222,88
+152 apostas ganhadoras, R$ 17.748,32
 
 **4 acertos**\
-4.551 apostas ganhadoras, R$ 795,44
+7.476 apostas ganhadoras, R$ 515,50
 
-## Concurso 2367 (30/04/2021)
+
+
+## Concurso 2368 (04/05/2021)
 
 **Como jogar**
 

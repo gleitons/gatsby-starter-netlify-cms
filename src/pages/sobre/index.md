@@ -3,7 +3,7 @@ templateKey: about-page
 path: /about
 title: Sobre nós
 ---
-![megadehoje-mega-de-hoje](/img/logo-mega-de-hoje.svg "mega-de-hoje-26300217000100")
+![megadehoje-mega-de-hoje](https://www.megadehoje.com/static/logo-mega-de-hoje-0d1f85f4cc77f9cd3cb0c1544379f7e0.svg "mega-de-hoje-26300217000100")
 
 ## **Quem Somos**
 

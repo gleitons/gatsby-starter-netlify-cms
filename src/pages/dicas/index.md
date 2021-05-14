@@ -74,7 +74,8 @@ pricing:
     - description: Totalmente online no conforto de sua casa, pelo celular ou computador.
       items:
         - Sem mensalidades / opções de bolões / Ao ganhar o prêmio vai direto para sua conta
-      plan: Quer saber Mais: Aposte hoje mesmo.
-      price: GRÁTIS
+      plan: Quer saber Mais **Aposte hoje mesmo**
+      price: GRATIS
+      [CLIQUE AQUI E CADASTRE-SE](http://bit.ly/aposte-online)
       
 ---

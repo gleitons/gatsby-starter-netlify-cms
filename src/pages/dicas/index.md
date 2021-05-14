@@ -1,7 +1,9 @@
 ---
 heading: Dicas e cursos de como jogar na loteria federal online
 path: /products
+path: /about
 templateKey: product-page
+templateKey: about-page
 title: Dicas - Como jogar na mega-sena Online? Lotofácil e mais
 image: /img/fundo-mega-de-hoje-header-megadehoje.png
 description: Jogar nas loterias Online é seguro. Você pode realizar boloes,
@@ -74,7 +76,7 @@ pricing:
     - description: Totalmente online no conforto de sua casa, pelo celular ou computador.
       items:
         - Sem mensalidades / opções de bolões / Ao ganhar o prêmio vai direto para sua conta
-      plan: Quer saber Mais: Aposte hoje mesmo.
+      plan: Quer saber Mais: **Aposte hoje mesmo.**
       price: GRÁTIS
       [CLIQUE AQUI E CADASTRE-SE](http://bit.ly/aposte-online)
 ---

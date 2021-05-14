@@ -75,6 +75,6 @@ pricing:
       items:
         - Sem mensalidades / opções de bolões / Ao ganhar o prêmio vai direto para sua conta
       plan: Quer saber Mais: Aposte hoje mesmo.
-      price: **GRÁTIS**
+      price: GRÁTIS
       
 ---

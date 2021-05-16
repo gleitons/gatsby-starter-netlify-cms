@@ -6,9 +6,9 @@ description: |+
   Concurso 2372 (15/05/2021)
 
 featuredpost: true
-featuredimage: /img/mega-sena-2371.png
+featuredimage: /img/mega-sena-2372.png
 ---
-![](/img/mega-sena-2371.svg)
+![](/img/mega-sena-2372.svg)
 
 ### Acumulou!
 
@@ -18,7 +18,7 @@ Sorteio realizado ESPAÇO LOTERIAS CAIXA em SÃO PAULO, SP
 
 Acabou de sair o resultado da mega-sena 2372, confira. Resultado da mega-sena 2372, sorteio realizado hoje dia 15 de maio de 2021, confira o resultado agora mesmo. Os números sorteados na mega sena foram:
 
-# 07 - 15 - 30 - 36 - 39 - 48
+# 03 - 19 - 25 - 44 - 46 - 57
 
 ### Premiação
 

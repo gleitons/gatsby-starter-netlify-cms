@@ -20,22 +20,22 @@ Acabou de sair o resultado da mega-sena 2372, confira. Resultado da mega-sena 23
 
 # 03 - 19 - 25 - 44 - 46 - 57
 
-### Premiação
+## Premiação
 
 **6 acertos**\
 Não houve ganhadores
 
 **5 acertos**\
-53 apostas ganhadoras, R$ 56.726,39
+128 apostas ganhadoras, R$ 28.213,14
 
 **4 acertos**\
-3.480 apostas ganhadoras, R$ 1.234,19
+7.636 apostas ganhadoras, R$ 675,61
 
-Estimativa de prêmio do próximo concurso 15/05/2021
+Estimativa de prêmio do próximo concurso 19/05/2021
 
-**R$ 33.000.000,00**
+**R$ 40.000.000,00**
 
-## Concurso 2372 (15/05/2021)
+Concurso 2372 (15/05/2021)
 
 **Como jogar**
 

@@ -8,7 +8,7 @@ description: |+
 featuredpost: true
 featuredimage: /img/mega-sena-capa-2375.png
 ---
-![](/img/mega-sena-2375.svg)
+<p><img height="600" width= "100%"src="https://www.megadehoje.com/img/mega-sena-2375.svg"></p>
 
 ### Acumulou!
 
@@ -26,10 +26,10 @@ Acabou de sair o resultado da mega-sena 2375, confira. Resultado da mega-sena 23
 Não houve ganhadores
 
 **5 acertos**\
-125 apostas ganhadoras, R$ 35.344,96
+144 apostas ganhadoras, R$ 42.488,96
 
 **4 acertos**\
-8.177 apostas ganhadoras, R$ 771,87
+8.909 apostas ganhadoras, R$ 981,09
 
 \
 Acumulou!
@@ -38,7 +38,7 @@ Sorteio realizado ESPAÇO LOTERIAS CAIXA em SÃO PAULO, SP
 
 Estimativa de prêmio do próximo concurso 26/05/2021
 
-**R$ 80.000.000,00**
+**R$ 100.000.000,00**
 
 **Como jogar**
 

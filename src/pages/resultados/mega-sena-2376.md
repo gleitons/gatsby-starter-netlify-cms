@@ -8,7 +8,7 @@ description: |+
 featuredpost: true
 featuredimage: /img/ganhador-2376.png
 ---
-<div><img height="600" width= "100%"src="blob:https://www.megadehoje.com/52a4cf4c-eedf-40e9-af9a-bf7fc4993623"></div>
+<div><img height="600" width= "100%"src="https://www.megadehoje.com/https://www.megadehoje.com/img/ganhador-2376.png"></div>
 
 ### Acumulou!
 
@@ -18,27 +18,25 @@ Sorteio realizado ESPAÇO LOTERIAS CAIXA em SÃO PAULO, SP
 
 Acabou de sair o resultado da mega-sena 2376, confira. Resultado da mega-sena 2376, sorteio realizado hoje dia 29 de maio de 2021, confira o resultado agora mesmo. Os números sorteados na mega sena foram:
 
-# 02 - 06 - 44 - 46 - 53 - 58
+# 12 - 14 - 17 - 18 - 19 - 22
 
 ### Premiação
 
 **6 acertos**\
-Não houve ganhadores
+2 apostas ganhadoras, R$ 47.341.439,63
 
 **5 acertos**\
-144 apostas ganhadoras, R$ 42.488,96
+433 apostas ganhadoras, R$ 18.922,04
 
 **4 acertos**\
-8.909 apostas ganhadoras, R$ 981,09
+19.908 apostas ganhadoras, R$ 587,93
 
 \
-Acumulou!
+02 Ganhadores
 
 Sorteio realizado ESPAÇO LOTERIAS CAIXA em SÃO PAULO, SP
 
-Estimativa de prêmio do próximo concurso 26/05/2021
-
-**R$ 100.000.000,00**
+**R$ 2.500.000,00**
 
 **Como jogar**
 

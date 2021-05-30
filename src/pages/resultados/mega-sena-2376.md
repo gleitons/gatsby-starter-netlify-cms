@@ -6,9 +6,9 @@ description: |+
   Concurso 2376 (29/05/2021)
 
 featuredpost: true
-featuredimage: /img/aposte-hoje-mesmo.png
+featuredimage: /img/ganhador-2376.png
 ---
-<div><img height="600" width= "100%"src="https://www.megadehoje.com/img/mega-sena-2375.svg"></div>
+<div><img height="600" width= "100%"src="blob:https://www.megadehoje.com/52a4cf4c-eedf-40e9-af9a-bf7fc4993623"></div>
 
 ### Acumulou!
 

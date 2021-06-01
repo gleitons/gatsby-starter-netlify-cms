@@ -8,9 +8,9 @@ description: |+
 featuredpost: true
 featuredimage: /img/ganhador-2376.png
 ---
-<div><img height="600" width= "100%"src="https://www.megadehoje.com/https://www.megadehoje.com/img/ganhador-2376.png"></div>
+<div><img height="600" width= "100%"src="https://www.megadehoje.com/img/ganhador-2376.png"></div>
 
-### Acumulou!
+### 02 GANHADORES!
 
 Sorteio realizado ESPAÇO LOTERIAS CAIXA em SÃO PAULO, SP
 

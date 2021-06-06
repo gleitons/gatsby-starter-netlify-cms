@@ -10,7 +10,7 @@ featuredimage: /img/acumulou-2377.jpeg
 ---
 <div><img height="600" width= "100%"src="https://www.megadehoje.com/img/acumulou-2377.jpeg"></div>
 
-### 02 GANHADORES!
+### ACUMULOU!
 
 Sorteio realizado ESPAÇO LOTERIAS CAIXA em SÃO PAULO, SP
 

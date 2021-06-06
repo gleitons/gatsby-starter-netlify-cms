@@ -1,42 +1,39 @@
 ---
 templateKey: blog-post
-title: Mega-sena 2376
-date: 2021-05-29T23:07:34.935Z
+title: Mega-sena 2377
+date: 2021-06-02T23:00:19.261Z
 description: |+
-  Concurso 2376 (29/05/2021)
+  Concurso 2377 (02/06/2021)
 
 featuredpost: true
-featuredimage: /img/ganhador-2376.png
+featuredimage: /img/acumulou-2377.jpeg
 ---
-<div><img height="600" width= "100%"src="https://www.megadehoje.com/img/ganhador-2376.png"></div>
+<div><img height="600" width= "100%"src="https://www.megadehoje.com/img/acumulou-2377.jpeg"></div>
 
 ### 02 GANHADORES!
 
 Sorteio realizado ESPAÇO LOTERIAS CAIXA em SÃO PAULO, SP
 
-## Mega-sena 2376
+## Mega-sena 2377
 
-Acabou de sair o resultado da mega-sena 2376, confira. Resultado da mega-sena 2376, sorteio realizado hoje dia 29 de maio de 2021, confira o resultado agora mesmo. Os números sorteados na mega sena foram:
+Acabou de sair o resultado da mega-sena 2377, confira. Resultado da mega-sena 2377, sorteio realizado hoje dia 02 de junho de 2021, confira o resultado agora mesmo. Os números sorteados na mega sena foram:
 
-# 12 - 14 - 17 - 18 - 19 - 22
+# 05 - 18 - 29 - 35 - 43 - 44
 
 ### Premiação
 
 **6 acertos**\
-2 apostas ganhadoras, R$ 47.341.439,63
+Não houve ganhadores
 
 **5 acertos**\
-433 apostas ganhadoras, R$ 18.922,04
+35 apostas ganhadoras, R$ 51.216,97
 
 **4 acertos**\
-19.908 apostas ganhadoras, R$ 587,93
+2.890 apostas ganhadoras, R$ 886,10
 
-\
-02 Ganhadores
+Estimativa de prêmio do próximo concurso 05/06/2021
 
-Sorteio realizado ESPAÇO LOTERIAS CAIXA em SÃO PAULO, SP
-
-**R$ 2.500.000,00**
+**R$ 7.200.000,00**
 
 **Como jogar**
 

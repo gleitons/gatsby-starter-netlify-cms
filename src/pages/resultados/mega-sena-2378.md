@@ -10,8 +10,6 @@ featuredimage: /img/acumulou-2378-megadehoje.jpeg
 ---
 <div><img height="600" width= "100%"src="blob:https://www.megadehoje.com/084ea860-7306-4e76-848d-7903d56c981e"></div>
 
-### 02 GANHADORES!
-
 Sorteio realizado ESPAÇO LOTERIAS CAIXA em SÃO PAULO, SP
 
 ## Mega-sena 2378
